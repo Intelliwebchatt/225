@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "The Future of AI in Small Business: 2024 Trends",
+            "slug": "ai-trends-2024",
+            "category": "ai-trends",
+            "date": "2024-01-15",
+            "image": "/assets/blog/ai-trends-2024.jpg",
+            "excerpt": "Discover the key AI trends that will shape small business operations in 2024 and beyond.",
+            "content": "..."
+        },
+        {
+            "id": 2,
+            "title": "Maximizing ROI with AI-Powered Websites",
+            "slug": "maximizing-website-roi",
+            "category": "web-dev",
+            "date": "2024-01-10",
+            "image": "/assets/blog/website-roi.jpg",
+            "excerpt": "Learn how AI-driven websites can boost your conversion rates and customer engagement.",
+            "content": "..."
+        }
+    ]
+}

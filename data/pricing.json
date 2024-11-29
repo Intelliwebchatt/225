@@ -1,0 +1,42 @@
+{
+    "pricing": [
+        {
+            "name": "Starter",
+            "price": 99,
+            "period": "month",
+            "features": [
+                "Smart Website Builder",
+                "Basic AI Integration",
+                "5 AI Agent Hours",
+                "Standard Support"
+            ],
+            "recommended": false
+        },
+        {
+            "name": "Professional",
+            "price": 199,
+            "period": "month",
+            "features": [
+                "Advanced Website Builder",
+                "Full AI Integration",
+                "20 AI Agent Hours",
+                "Priority Support",
+                "Custom Analytics"
+            ],
+            "recommended": true
+        },
+        {
+            "name": "Enterprise",
+            "price": 399,
+            "period": "month",
+            "features": [
+                "Enterprise Website Solution",
+                "Unlimited AI Integration",
+                "Unlimited AI Agent Hours",
+                "24/7 Premium Support",
+                "Custom Development"
+            ],
+            "recommended": false
+        }
+    ]
+}

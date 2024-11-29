@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "Smart Websites",
+            "description": "AI-powered websites that adapt to your visitors' needs and optimize for conversions.",
+            "features": [
+                "AI-driven personalization",
+                "Automated content optimization",
+                "Smart analytics dashboard",
+                "24/7 performance monitoring"
+            ],
+            "icon": "/assets/icons/website.svg"
+        },
+        {
+            "id": 2,
+            "title": "AI Business Agents",
+            "description": "Intelligent virtual agents that handle customer service and sales operations.",
+            "features": [
+                "Natural language processing",
+                "24/7 customer support",
+                "Multi-channel integration",
+                "Learning capabilities"
+            ],
+            "icon": "/assets/icons/ai-agent.svg"
+        }
+    ]
+}
